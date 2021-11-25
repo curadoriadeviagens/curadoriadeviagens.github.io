@@ -14,7 +14,7 @@ jobs:
           server: ${{ secrets.FTP_SERVER }}
           user: ${{ secrets.FTP_USERNAME }}
           password: ${{ secrets.FTP_PASSWORD }}
-          local_dir: "./public_html"
+          local_dir: "./curadoriadeviagens.github.io/"
           remote_dir: "/home2/curado20"
           delete: "true"
           max_retries: "7"
