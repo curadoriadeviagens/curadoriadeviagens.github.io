@@ -7,14 +7,6 @@
 	},
 	"buffers":
 	[
-		{
-			"file": "curadoria.sublime-project",
-			"settings":
-			{
-				"buffer_size": 45,
-				"line_ending": "Unix"
-			}
-		}
 	],
 	"build_system": "",
 	"build_system_choices":
@@ -100,10 +92,13 @@
 	},
 	"expanded_folders":
 	[
-		"/Users/renata/Documents/curadoriadeviagens.github.io"
+		"/Users/renata/Documents/curadoriadeviagens.github.io",
+		"/Users/renata/Documents/curadoriadeviagens.github.io/cache",
+		"/Users/renata/Documents/curadoriadeviagens.github.io/home-mundo"
 	],
 	"file_history":
 	[
+		"/Users/renata/Documents/curadoriadeviagens.github.io/github/workflows/main.yml",
 		"/Users/renata/Documents/curadoriadeviagens.github.io/index.html",
 		"/Users/renata/Documents/curadoriadeviagens.github.io/posts/islandia-curiosidades.html",
 		"/Users/renata/Documents/curadoriadeviagens.github.io/islandia-roteiro.html",
@@ -149,37 +144,8 @@
 	"groups":
 	[
 		{
-			"selected": 0,
 			"sheets":
 			[
-				{
-					"buffer": 0,
-					"file": "curadoria.sublime-project",
-					"semi_transient": true,
-					"settings":
-					{
-						"buffer_size": 45,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								0,
-								0
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/JavaScript/JSON.sublime-syntax"
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 0,
-					"type": "text"
-				}
 			]
 		}
 	],
@@ -189,7 +155,7 @@
 	},
 	"input":
 	{
-		"height": 0.0
+		"height": 36.0
 	},
 	"layout":
 	{
@@ -261,10 +227,10 @@
 	{
 	},
 	"show_minimap": true,
-	"show_open_files": false,
+	"show_open_files": true,
 	"show_tabs": true,
 	"side_bar_visible": true,
-	"side_bar_width": 150.0,
+	"side_bar_width": 244.0,
 	"status_bar_visible": true,
 	"template_settings":
 	{
