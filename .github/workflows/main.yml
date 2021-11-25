@@ -14,5 +14,4 @@ jobs:
           server: ${{ secrets.FTP_HOST }}
           user: ${{ secrets.FTP_USER }}
           password: ${{ secrets.FTP_PASSWORD }}
-          local_dir: "./public_html"
-          delete: "false"
+ 
