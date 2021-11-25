@@ -1,4 +1,3 @@
-main.yml
 on:push
 name:Deploy website on push
 jobs:web-deploy:name:Deploy
