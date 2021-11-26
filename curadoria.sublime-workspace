@@ -7,6 +7,18 @@
 	},
 	"buffers":
 	[
+		{
+			"contents": "<!DOCTYPE html>\n<html lang=\"pt-BR\">\n \n<head>\n\n<meta http-equiv=\"refresh\" content=\"1; URL=\"https://www.curadoriadeviagens.com.br/hospedagens/\">\n \n\n \n</head>\n \n \n<body>\n \n hellowordls\n \n<script>\n</script>\n \n \n</body>\n</html>",
+			"file": "public_html/hospedagens.html",
+			"file_size": 16568,
+			"file_write_time": 132823655605169454,
+			"settings":
+			{
+				"buffer_size": 222,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		}
 	],
 	"build_system": "",
 	"build_system_choices":
@@ -93,14 +105,19 @@
 	"expanded_folders":
 	[
 		"/Users/renata/Documents/curadoriadeviagens.github.io",
+		"/Users/renata/Documents/curadoriadeviagens.github.io/backup do public_html",
 		"/Users/renata/Documents/curadoriadeviagens.github.io/cache",
-		"/Users/renata/Documents/curadoriadeviagens.github.io/public_html"
+		"/Users/renata/Documents/curadoriadeviagens.github.io/public_html",
+		"/Users/renata/Documents/curadoriadeviagens.github.io/public_html/hospedagens"
 	],
 	"file_history":
 	[
+		"/Users/renata/Documents/curadoriadeviagens.github.io/public_html/hospedagens.html",
+		"/Users/renata/Documents/curadoriadeviagens.github.io/backup do public_html/index.html",
+		"/Users/renata/Documents/curadoriadeviagens.github.io/public_html/index.html",
+		"/Users/renata/Documents/curadoriadeviagens.github.io/public_html/hospedagens/hospedagens.html",
 		"/Users/renata/Documents/curadoriadeviagens.github.io/public_html/wp-blog-header.php",
 		"/Users/renata/Documents/curadoriadeviagens.github.io/public_html/index.php",
-		"/Users/renata/Documents/curadoriadeviagens.github.io/public_html/index.html",
 		"/Users/renata/Documents/curadoriadeviagens.github.io/index.html",
 		"/Users/renata/Documents/curadoriadeviagens.github.io/github/workflows/main.yml",
 		"/Users/renata/Documents/curadoriadeviagens.github.io/posts/islandia-curiosidades.html",
@@ -130,6 +147,14 @@
 		"case_sensitive": false,
 		"find_history":
 		[
+			"hospeda",
+			"www.",
+			"www.cur",
+			"hospedag",
+			"home",
+			"/head",
+			"quer rec",
+			"quer re"
 		],
 		"highlight": true,
 		"in_selection": false,
@@ -147,8 +172,37 @@
 	"groups":
 	[
 		{
+			"selected": 0,
 			"sheets":
 			[
+				{
+					"buffer": 0,
+					"file": "public_html/hospedagens.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 222,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								98,
+								98
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
 			]
 		}
 	],
@@ -233,7 +287,7 @@
 	"show_open_files": true,
 	"show_tabs": true,
 	"side_bar_visible": true,
-	"side_bar_width": 244.0,
+	"side_bar_width": 234.0,
 	"status_bar_visible": true,
 	"template_settings":
 	{
