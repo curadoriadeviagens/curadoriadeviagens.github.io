@@ -8,10 +8,14 @@
 	"buffers":
 	[
 		{
-			"file": "public_html/hospedagens/hospedagens.html",
+			"contents": "<!DOCTYPE html>\n<html lang=\"pt-BR\">\n \n<head>\n\n<meta http-equiv=\"refresh\" content=\"1; URL=\"https://www.curadoriadeviagens.com.br/hospedagens/\">\n \n\n \n</head>\n \n \n<body>\n \n hellowordls\n \n<script>\n</script>\n \n \n</body>\n</html>",
+			"file": "public_html/hospedagens.html",
+			"file_size": 16568,
+			"file_write_time": 132823655605169454,
 			"settings":
 			{
-				"buffer_size": 270,
+				"buffer_size": 222,
+				"encoding": "UTF-8",
 				"line_ending": "Unix"
 			}
 		}
@@ -109,8 +113,8 @@
 	"file_history":
 	[
 		"/Users/renata/Documents/curadoriadeviagens.github.io/public_html/hospedagens.html",
-		"/Users/renata/Documents/curadoriadeviagens.github.io/public_html/index.html",
 		"/Users/renata/Documents/curadoriadeviagens.github.io/backup do public_html/index.html",
+		"/Users/renata/Documents/curadoriadeviagens.github.io/public_html/index.html",
 		"/Users/renata/Documents/curadoriadeviagens.github.io/public_html/hospedagens/hospedagens.html",
 		"/Users/renata/Documents/curadoriadeviagens.github.io/public_html/wp-blog-header.php",
 		"/Users/renata/Documents/curadoriadeviagens.github.io/public_html/index.php",
@@ -129,7 +133,7 @@
 	],
 	"find":
 	{
-		"height": 24.0
+		"height": 39.0
 	},
 	"find_in_files":
 	{
@@ -173,19 +177,19 @@
 			[
 				{
 					"buffer": 0,
-					"file": "public_html/hospedagens/hospedagens.html",
-					"semi_transient": true,
+					"file": "public_html/hospedagens.html",
+					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 270,
+						"buffer_size": 222,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								270,
-								0
+								98,
+								98
 							]
 						],
 						"settings":
