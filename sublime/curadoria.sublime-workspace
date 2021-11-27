@@ -100,6 +100,7 @@
 	"file_history":
 	[
 		"/Users/renata/Documents/curadoriadeviagens.github.io/public_html/index.html",
+		"/Users/renata/Desktop/index(versao tentativa do carrossel).html",
 		"/Users/renata/Documents/BACKUP.io/public_html/index.html",
 		"/Users/renata/Documents/HMWW9502.JPG",
 		"/Users/renata/Documents/curadoriadeviagens.github.io/public_html/hospedagens/home-hospedagens.html",
@@ -137,6 +138,9 @@
 		"case_sensitive": false,
 		"find_history":
 		[
+			"</style",
+			"fim",
+			"organize",
 			"body",
 			"style"
 		],
