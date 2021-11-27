@@ -7,15 +7,6 @@
 	},
 	"buffers":
 	[
-		{
-			"file": "/Users/renata/Documents/curadoriadeviagens.github.io/public_html/index.html",
-			"settings":
-			{
-				"buffer_size": 31944,
-				"encoding": "UTF-8",
-				"line_ending": "Unix"
-			}
-		}
 	],
 	"build_system": "",
 	"build_system_choices":
@@ -102,13 +93,12 @@
 	"expanded_folders":
 	[
 		"/Users/renata/Documents/curadoriadeviagens.github.io",
-		"/Users/renata/Documents/curadoriadeviagens.github.io/public_html",
-		"/Users/renata/Documents/curadoriadeviagens.github.io/public_html/hospedagens"
+		"/Users/renata/Documents/curadoriadeviagens.github.io/public_html"
 	],
 	"file_history":
 	[
-		"/Users/renata/Documents/curadoriadeviagens.github.io/public_html/hospedagens/home-hospedagens.html",
 		"/Users/renata/Documents/curadoriadeviagens.github.io/public_html/index.html",
+		"/Users/renata/Documents/curadoriadeviagens.github.io/public_html/hospedagens/home-hospedagens.html",
 		"/Users/renata/Documents/curadoriadeviagens.github.io/public_html/hospedagens/hospedagens.html",
 		"/Users/renata/Documents/curadoriadeviagens.github.io/public_html/hospedagens.html",
 		"/Users/renata/Documents/curadoriadeviagens.github.io/backup do public_html/index.html",
@@ -160,38 +150,8 @@
 	"groups":
 	[
 		{
-			"selected": 0,
 			"sheets":
 			[
-				{
-					"buffer": 0,
-					"file": "/Users/renata/Documents/curadoriadeviagens.github.io/public_html/index.html",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 31944,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								31927,
-								31927
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/HTML/HTML.sublime-syntax",
-							"translate_tabs_to_spaces": false
-						},
-						"translation.x": 0.0,
-						"translation.y": 6512.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 0,
-					"type": "text"
-				}
 			]
 		}
 	],
