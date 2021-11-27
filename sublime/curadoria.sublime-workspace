@@ -137,6 +137,7 @@
 		"case_sensitive": false,
 		"find_history":
 		[
+			"body",
 			"style"
 		],
 		"highlight": true,
