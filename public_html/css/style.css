@@ -343,48 +343,48 @@ category slug.
 
 /*
 .icon-comm-down-magenta {
-    background-image: url("assets/images/comment-icon-down-magenta.png");
+    background-image: url("https://curadoriadeviagens.com.br/images/asset/menu-shadow/comment-icon-down-magenta.png");
     background-repeat: no-repeat;
     background-size: cover;
 }
 .icon-down-blue {
-    background-image: url("assets/images/comment-icon-down-blue.png");
+    background-image: url("https://curadoriadeviagens.com.br/images/asset/menu-shadow/comment-icon-down-blue.png");
     background-repeat: no-repeat;
     background-size: cover;
 }
 .icon-down-yellow {
-    background-image: url("assets/images/comment-icon-down-yellow.png");
+    background-image: url("https://curadoriadeviagens.com.br/images/asset/menu-shadow/comment-icon-down-yellow.png");
     background-repeat: no-repeat;
     background-size: cover;
 }
 .icon-down-black {
-    background-image: url("assets/images/comment-icon-down-black.png");
+    background-image: url("https://curadoriadeviagens.com.br/images/asset/menu-shadow/comment-icon-down-black.png");
     background-repeat: no-repeat;
     background-size: cover;
 }
 .icon-down-white {
-    background-image: url("assets/images/comment-icon-down-white.png");
+    background-image: url("https://curadoriadeviagens.com.br/images/asset/menu-shadow/comment-icon-down-white.png");
     background-repeat: no-repeat;
     background-size: cover;
 }
 
 .icon-left-magenta {
-    background-image: url("assets/images/comment-icon-left-magenta.png");
+    background-image: url("https://curadoriadeviagens.com.br/images/asset/menu-shadow/comment-icon-left-magenta.png");
     background-repeat: no-repeat;
     background-size: cover;
 }
 .icon-left-blue {
-    background-image: url("assets/images/comment-icon-left-magenta.png");
+    background-image: url("https://curadoriadeviagens.com.br/images/asset/menu-shadow/comment-icon-left-magenta.png");
     background-repeat: no-repeat;
     background-size: cover;
 }
 .icon-left-yellow {
-    background-image: url("assets/images/comment-icon-left-magenta.png");
+    background-image: url("https://curadoriadeviagens.com.br/images/asset/menu-shadow/comment-icon-left-magenta.png");
     background-repeat: no-repeat;
     background-size: cover;
 }
 .icon-left-black {
-    background-image: url("assets/images/comment-icon-left-magenta.png");
+    background-image: url("https://curadoriadeviagens.com.br/images/asset/menu-shadow/comment-icon-left-magenta.png");
     background-repeat: no-repeat;
     background-size: cover;
 }
@@ -882,7 +882,7 @@ category slug.
 /*.recent-post-wrapper.border-bottom-magenta::after {
     content: attr(num-comment);
     background-color: white;
-    background-image: url(assets/images/comment-icon-left-magenta.png);
+    background-image: url(https://curadoriadeviagens.com.br/images/asset/menu-shadow/comment-icon-left-magenta.png);
     background-repeat: no-repeat;
     background-position: right;
     position: absolute;
@@ -1935,7 +1935,7 @@ article li {
 /******************* ENDSEARCH FORM ************************/
 /************* NEWSLETTER **************/
 #newsletter-container {
-  background-image: url("assets/images/shadow-top-newsletter.png"), url("assets/images/shadow-bottom-newsletter.png");
+  background-image: url("https://curadoriadeviagens.com.br/images/asset/menu-shadow/shadow-top-newsletter.png"), url("https://curadoriadeviagens.com.br/images/asset/menu-shadow/shadow-bottom-newsletter.png");
   background-repeat: no-repeat, no-repeat;
   background-position: top, bottom;
   /*margin-bottom: 2.5rem;*/
@@ -2102,7 +2102,7 @@ article li {
 /************* AFFILIATED PROGRAMS **************/
 #affili-container {
   color: white;
-  background-image: url("assets/images/shadow-top-affiliated.png"), url("assets/images/shadow-bottom-affiliated.png");
+  background-image: url("https://curadoriadeviagens.com.br/images/asset/menu-shadow/shadow-top-affiliated.png"), url("https://curadoriadeviagens.com.br/images/asset/menu-shadow/shadow-bottom-affiliated.png");
   background-repeat: no-repeat, no-repeat;
   background-position: top, bottom;
   /*    margin-bottom: 2.5rem; */
@@ -2277,7 +2277,7 @@ article li {
 /************* END SOCIAL MEDIA **************/
 /************* FOOTER **************/
 .bg-footer-1 {
-  background-image: url("assets/images/bg-footer-1-italia-02.jpg");
+  background-image: url("https://curadoriadeviagens.com.br/images/asset/menu-shadow/bg-footer-1-italia-02.jpg");
   /* fallback image */
   background-size: cover;
   background-position: top;
@@ -2347,7 +2347,7 @@ article li {
   width: 262px;
   bottom: -58px;
   right: -34px;
-  background-image: url("assets/images/shadow-logo.png");
+  background-image: url("https://curadoriadeviagens.com.br/images/asset/menu-shadow/shadow-logo.png");
   background-repeat: no-repeat;
   background-size: contain;
   background-position: bottom left;
@@ -2364,7 +2364,7 @@ article li {
   height: 144px;
   top: 9px;
   left: -21px;
-  background-image: url("assets/images/shadow-menu-left.png");
+  background-image: url("https://curadoriadeviagens.com.br/images/asset/menu-shadow/shadow-menu-left.png");
   background-repeat: no-repeat;
   background-size: contain;
   background-position: bottom left;
@@ -2376,7 +2376,7 @@ article li {
   height: 144px;
   top: 9px;
   right: -19px;
-  background-image: url("assets/images/shadow-menu-right.png");
+  background-image: url("https://curadoriadeviagens.com.br/images/asset/menu-shadow/shadow-menu-right.png");
   background-repeat: no-repeat;
   background-size: contain;
   background-position: bottom right;
@@ -2411,7 +2411,7 @@ article li {
     width: 93px;
     bottom: -25px;
     right: -2px;
-    background-image: url("assets/images/shadow-logo-mobile.png");
+    background-image: url("https://curadoriadeviagens.com.br/images/asset/menu-shadow/shadow-logo-mobile.png");
     background-repeat: no-repeat;
     background-size: contain;
     background-position: bottom center;
@@ -2780,3 +2780,4 @@ img.emoji {
   }
 }
 /************************ END CAROUSEL ********************/
+
