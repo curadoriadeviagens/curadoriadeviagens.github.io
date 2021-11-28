@@ -99,11 +99,19 @@
 		"/Users/renata/Documents/curadoriadeviagens.github.io",
 		"/Users/renata/Documents/curadoriadeviagens.github.io/public_html",
 		"/Users/renata/Documents/curadoriadeviagens.github.io/public_html/hospedagem",
-		"/Users/renata/Documents/curadoriadeviagens.github.io/public_html/json"
+		"/Users/renata/Documents/curadoriadeviagens.github.io/public_html/json",
+		"/Users/renata/Documents/curadoriadeviagens.github.io/public_html/wp-content",
+		"/Users/renata/Documents/curadoriadeviagens.github.io/public_html/wp-content/plugins",
+		"/Users/renata/Documents/curadoriadeviagens.github.io/public_html/wp-content/plugins/ubermenu",
+		"/Users/renata/Documents/curadoriadeviagens.github.io/public_html/wp-content/plugins/ubermenu/assets",
+		"/Users/renata/Documents/curadoriadeviagens.github.io/public_html/wp-content/plugins/ubermenu/assets/css",
+		"/Users/renata/Documents/curadoriadeviagens.github.io/public_html/wp-content/plugins/ubermenu/assets/css/less",
+		"/Users/renata/Documents/curadoriadeviagens.github.io/public_html/wp-content/plugins/ubermenu/assets/css/skins"
 	],
 	"file_history":
 	[
 		"/Users/renata/Documents/curadoriadeviagens.github.io/public_html/index.html",
+		"/Users/renata/Documents/curadoriadeviagens.github.io/public_html/wp-content/plugins/ubermenu/assets/css/skins/sc-light-skin.css",
 		"/Users/renata/Documents/curadoriadeviagens.github.io/public_html/css/style.css",
 		"/Users/renata/Desktop/index(versao tentativa do carrossel).html",
 		"/Users/renata/Documents/BACKUP.io/public_html/index.html",
@@ -143,6 +151,21 @@
 		"case_sensitive": false,
 		"find_history":
 		[
+			"sundaycooks",
+			"sundaycooks-logo",
+			"sundaycooks",
+			"sundaycooks-logo",
+			"sunday",
+			"<style id",
+			"<style",
+			"<style id=\"r",
+			"sundaycooks-logo",
+			"sunday",
+			"skin",
+			"ubermenu",
+			"png",
+			"skin",
+			"asset",
 			"menu-sha",
 			"style.css",
 			"style",
@@ -274,7 +297,7 @@
 	"show_open_files": true,
 	"show_tabs": true,
 	"side_bar_visible": true,
-	"side_bar_width": 50.0,
+	"side_bar_width": 268.0,
 	"status_bar_visible": true,
 	"template_settings":
 	{
