@@ -10,7 +10,7 @@
 <head>
 
 
-<title>Home - Curadoria de Viagens</title>
+<title>Curadoria de Viagens - Dicas e roteiros</title>
 
 <!-- / siginificado de rel="canonical"
 Canonical tag é uma marcação inserida no código de páginas da web para definir que elas são um conteúdo original. Essa tag serve diretamente para a leitura dos algoritmos de motores de busca, como o Google e o Yahoo e funciona como um alerta de que aquela é a página à qual os usuários devem ser redirecionados ao realizarem uma pesquisa nesses sites. -->
@@ -34,9 +34,31 @@ Meta tags são marcadores em formato de texto (mais especificamente HTML) que fa
 
 
 <!-- / isso MEXE NO LOGO QUE FICA NO "MENU" DA PAGINA INÍCIO-->
-<link rel="icon" href="https://curadoriadeviagens.com.br/images/asset/favicon/ms-icon-150x150.png" sizes="32x32" />
-<link rel="icon" href="https://curadoriadeviagens.com.br/images/asset/favicon/ms-icon-310x310.png" sizes="192x192" />
+<link rel="icon" href="images/asset/favicon/ms-icon-150x150.png" sizes="32x32" />
+<link rel="icon" href="mages/asset/favicon/ms-icon-310x310.png" sizes="192x192" />
 <!-- / isso MEXE NO LOGO QUE FICA NO "MENU" DA PAGINA FIM-->
+
+
+<!-- / icone do menu... tavez possa deleter - INICIO-->
+<link rel="apple-touch-icon" sizes="57x57" href="images/asset/favicon/apple-icon-57x57.png">
+<link rel="apple-touch-icon" sizes="60x60" href="images/asset/favicon/apple-icon-60x60.png">
+<link rel="apple-touch-icon" sizes="72x72" href="images/asset/favicon/apple-icon-72x72.png">
+<link rel="apple-touch-icon" sizes="76x76" href="images/asset/favicon/apple-icon-76x76.png">
+<link rel="apple-touch-icon" sizes="114x114" href="images/asset/favicon/apple-icon-114x114.png">
+<link rel="apple-touch-icon" sizes="120x120" href="images/asset/favicon/apple-icon-120x120.png">
+<link rel="apple-touch-icon" sizes="144x144" href="images/asset/favicon/apple-icon-144x144.png">
+<link rel="apple-touch-icon" sizes="152x152" href="images/asset/favicon/apple-icon-152x152.png">
+<link rel="apple-touch-icon" sizes="180x180" href="images/asset/favicon/apple-icon-180x180.png">
+<link rel="icon" type="image/png" sizes="192x192"  href="images/asset/favicon/android-icon-192x192.png">
+<link rel="icon" type="image/png" sizes="32x32" href="images/asset/favicon/favicon-32x32.png">
+<link rel="icon" type="image/png" sizes="96x96" href="images/asset/favicon/favicon-96x96.png">
+<link rel="icon" type="image/png" sizes="16x16" href="images/asset/favicon/favicon-16x16.png">
+<link rel="manifest" href="images/asset/favicon/manifest.json">
+<meta name="msapplication-TileColor" content="#ffffff">
+<meta name="msapplication-TileImage" content="images/asset/favicon/ms-icon-144x144.png">
+<meta name="theme-color" content="#ffffff">
+<!-- / icone do menu... tavez possa deleter - FIM-->
+
 
 
 <!-- / isso To use the Font Awesome icons, go to fontawesome.com, sign in, and get a code to add in the <head> section of your HTML page: INÍCIO-->
@@ -142,6 +164,14 @@ Meta tags são marcadores em formato de texto (mais especificamente HTML) que fa
 
 
 
+
+
+
+
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.1.2/dist/css/bootstrap.min.css" rel="stylesheet">
+  <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.1.2/dist/js/bootstrap.bundle.min.js"></script>
     
 
 
@@ -237,6 +267,46 @@ Meta tags são marcadores em formato de texto (mais especificamente HTML) que fa
 
 
 
+
+
+
+
+<!-- Carousel -->
+<div id="demo" class="carousel slide" data-bs-ride="carousel">
+
+  <!-- Indicators/dots -->
+  <div class="carousel-indicators">
+    <button type="button" data-bs-target="#demo" data-bs-slide-to="0" class="active"></button>
+    <button type="button" data-bs-target="#demo" data-bs-slide-to="1"></button>
+    <button type="button" data-bs-target="#demo" data-bs-slide-to="2"></button>
+  </div>
+  
+  <!-- The slideshow/carousel -->
+  <div class="carousel-inner">
+    <div class="carousel-item active">
+      <img src="la.jpg" alt="Los Angeles" class="d-block" style="width:100%">
+    </div>
+    <div class="carousel-item">
+      <img src="chicago.jpg" alt="Chicago" class="d-block" style="width:100%">
+    </div>
+    <div class="carousel-item">
+      <img src="ny.jpg" alt="New York" class="d-block" style="width:100%">
+    </div>
+  </div>
+  
+  <!-- Left and right controls/icons -->
+  <button class="carousel-control-prev" type="button" data-bs-target="#demo" data-bs-slide="prev">
+    <span class="carousel-control-prev-icon"></span>
+  </button>
+  <button class="carousel-control-next" type="button" data-bs-target="#demo" data-bs-slide="next">
+    <span class="carousel-control-next-icon"></span>
+  </button>
+</div>
+
+<div class="container-fluid mt-3">
+  <h3>Carousel Example</h3>
+  <p>The following example shows how to create a basic carousel with indicators and controls.</p>
+</div>
 
 
 
