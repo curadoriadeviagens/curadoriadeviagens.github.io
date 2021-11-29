@@ -11,6 +11,15 @@
 	},
 	"buffers":
 	[
+		{
+			"file": "/Users/renata/Documents/curadoriadeviagens.github.io/public_html/index.html",
+			"settings":
+			{
+				"buffer_size": 41995,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		}
 	],
 	"build_system": "",
 	"build_system_choices":
@@ -98,13 +107,12 @@
 	[
 		"/Users/renata/Documents/curadoriadeviagens.github.io",
 		"/Users/renata/Documents/curadoriadeviagens.github.io/public_html",
+		"/Users/renata/Documents/curadoriadeviagens.github.io/public_html/css",
 		"/Users/renata/Documents/curadoriadeviagens.github.io/public_html/hospedagem",
 		"/Users/renata/Documents/curadoriadeviagens.github.io/public_html/json",
 		"/Users/renata/Documents/curadoriadeviagens.github.io/public_html/wp-content",
 		"/Users/renata/Documents/curadoriadeviagens.github.io/public_html/wp-content/plugins",
-		"/Users/renata/Documents/curadoriadeviagens.github.io/public_html/wp-content/plugins/ubermenu",
-		"/Users/renata/Documents/curadoriadeviagens.github.io/public_html/wp-content/plugins/ubermenu/assets",
-		"/Users/renata/Documents/curadoriadeviagens.github.io/public_html/wp-content/plugins/ubermenu/assets/css"
+		"/Users/renata/Documents/curadoriadeviagens.github.io/public_html/wp-content/plugins/ubermenu"
 	],
 	"file_history":
 	[
@@ -136,7 +144,7 @@
 	],
 	"find":
 	{
-		"height": 24.0
+		"height": 39.0
 	},
 	"find_in_files":
 	{
@@ -150,6 +158,50 @@
 		"case_sensitive": false,
 		"find_history":
 		[
+			"menu",
+			"horizon",
+			"sunday",
+			"vertical",
+			"shadow",
+			"uradoria-logo-vertical",
+			"horizon",
+			"verti",
+			"cura",
+			"logo-cu",
+			"132",
+			"cura",
+			"teste",
+			"600",
+			" width=\"600\"",
+			" width=\"600\"\n  height=\"337\"\n  style=\"width: 300px; height: 337px;\"",
+			"curadoria-logo-ho",
+			".logo",
+			"curadoria-logo",
+			"sunday",
+			"logo",
+			"horizon",
+			"background-image",
+			"logo",
+			"_sha",
+			"logo",
+			"shadow",
+			"curadoria-logo",
+			"teste",
+			"logo-shado",
+			"shado",
+			"curadoria-shadow-logo",
+			"shado",
+			"carou",
+			"CAROU",
+			"carousel-caption",
+			"carou",
+			"comer",
+			"MODELITOS",
+			"carou",
+			"MODELITOS",
+			"curado",
+			"vermelho",
+			"& tur",
 			"sc-category",
 			"CAPTION",
 			"<div class=\"row>",
@@ -233,15 +285,7 @@
 			"style",
 			"style-css",
 			"style.css",
-			"stylecuradoria.css",
-			"stylecu.css",
-			"style.css",
-			"www.",
-			"</style",
-			"fim",
-			"organize",
-			"body",
-			"style"
+			"stylecuradoria.css"
 		],
 		"highlight": true,
 		"in_selection": false,
@@ -259,8 +303,39 @@
 	"groups":
 	[
 		{
+			"selected": 0,
 			"sheets":
 			[
+				{
+					"buffer": 0,
+					"file": "/Users/renata/Documents/curadoriadeviagens.github.io/public_html/index.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 41995,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								41995
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 534.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
 			]
 		}
 	],
