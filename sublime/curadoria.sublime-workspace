@@ -104,13 +104,12 @@
 		"/Users/renata/Documents/curadoriadeviagens.github.io/public_html/wp-content/plugins",
 		"/Users/renata/Documents/curadoriadeviagens.github.io/public_html/wp-content/plugins/ubermenu",
 		"/Users/renata/Documents/curadoriadeviagens.github.io/public_html/wp-content/plugins/ubermenu/assets",
-		"/Users/renata/Documents/curadoriadeviagens.github.io/public_html/wp-content/plugins/ubermenu/assets/css",
-		"/Users/renata/Documents/curadoriadeviagens.github.io/public_html/wp-content/plugins/ubermenu/assets/css/less",
-		"/Users/renata/Documents/curadoriadeviagens.github.io/public_html/wp-content/plugins/ubermenu/assets/css/skins"
+		"/Users/renata/Documents/curadoriadeviagens.github.io/public_html/wp-content/plugins/ubermenu/assets/css"
 	],
 	"file_history":
 	[
 		"/Users/renata/Documents/curadoriadeviagens.github.io/public_html/index.html",
+		"/Users/renata/Documents/curadoriadeviagens.github.io/public_html/wp-content/plugins/ubermenu/assets/css/less/rtl.less",
 		"/Users/renata/Documents/curadoriadeviagens.github.io/public_html/wp-content/plugins/ubermenu/assets/css/skins/sc-light-skin.css",
 		"/Users/renata/Documents/curadoriadeviagens.github.io/public_html/css/style.css",
 		"/Users/renata/Desktop/index(versao tentativa do carrossel).html",
@@ -137,7 +136,7 @@
 	],
 	"find":
 	{
-		"height": 39.0
+		"height": 24.0
 	},
 	"find_in_files":
 	{
@@ -151,6 +150,55 @@
 		"case_sensitive": false,
 		"find_history":
 		[
+			"sc-category",
+			"CAPTION",
+			"<div class=\"row>",
+			"conta",
+			"companhias",
+			"sc-category",
+			"sc-category-wrapper",
+			"col-md-12 text-",
+			"<div data-bg=\"h",
+			"carousel-overlay",
+			"carousel-inner",
+			"carou",
+			"index",
+			"item sunday-carousel-item",
+			"rocket-lazyload",
+			"container",
+			"container-fluid",
+			"col-8",
+			"carousel-item active",
+			"d-inline-block",
+			"owl-theme",
+			"container-fluid",
+			"completaram",
+			"imuniza",
+			"argentina",
+			"<div class=\"col-lg-2 hidden-md-down font-white carousel-next\">",
+			"turismo",
+			"Companhias Aéreas",
+			"CAROU",
+			"style",
+			"carou",
+			"sunday-owl-wrapper",
+			"head",
+			"unday-owl-wrapper",
+			"carousel",
+			"covid-19",
+			"argentina",
+			"owl-carousel",
+			"container-fluid",
+			"owl-theme",
+			"owl-carousel",
+			"CARO",
+			"STYLE",
+			"owl-carousel",
+			"CAROU",
+			"CARO",
+			"DIV",
+			"CARO",
+			"icone",
 			"sundaycooks",
 			"sundaycooks-logo",
 			"sundaycooks",
@@ -297,7 +345,7 @@
 	"show_open_files": true,
 	"show_tabs": true,
 	"side_bar_visible": true,
-	"side_bar_width": 268.0,
+	"side_bar_width": 267.0,
 	"status_bar_visible": true,
 	"template_settings":
 	{
