@@ -13,15 +13,30 @@
 
 <style>
 
-.carousel {
-  max-height: 600px;
-  overflow: hidden;
+.carousel
+{
+    height: 720px;
+    margin-bottom: 0px;
 }
 
-.carousel-caption {
-  margin-bottom: 50px;
+.carousel-caption
+{
+    z-index: 10;
 }
 
+.carousel .item
+{
+    height: 720px;
+    background-color: #777;
+}
+
+.carousel-inner > .item > img
+{
+    position: absolute;
+        top: 51px;
+        left: 0;
+    min-width: 100%;
+}
 
 </style>
 
@@ -75,13 +90,12 @@ Meta tags são marcadores em formato de texto (mais especificamente HTML) que fa
     <meta property="og:image" content="https://curadoriadeviagens.com.br/images/asset/curadoria-16x16.ico" />
 
 
-  <!-- /.    <link rel="shortcut icon" href="https://drieverywhere.net/wp-content/themes/drievery/favicon.ico">
 
-
-<!-- / isso MEXE NO LOGO QUE FICA NO "MENU" DA PAGINA INÍCIO-->
+<!-- / isso MEXE NO LOGO QUE FICA NA GUIA DA PAGINA INÍCIO-->
 <link rel="icon" href="images/asset/favicon/ms-icon-150x150.png" sizes="32x32" />
 <link rel="icon" href="mages/asset/favicon/ms-icon-310x310.png" sizes="192x192" />
-<!-- / isso MEXE NO LOGO QUE FICA NO "MENU" DA PAGINA FIM-->
+  <!-- /.    <link rel="shortcut icon" href="https://drieverywhere.net/wp-content/themes/drievery   -->
+<!-- / isso MEXE NO LOGO QUE FICA NA GUIA DA PAGINA FIM-->
 
 
 <!-- / icone do menu... tavez possa deleter - INICIO-->
@@ -341,7 +355,7 @@ Meta tags são marcadores em formato de texto (mais especificamente HTML) que fa
 			<div class="col-lg-9 center">
 	<a href="https://curadoriadeviagens.com.br/">
 	<h3 class="title px-3 txt-shadow-black text-center font-white">
-	Onde comprar seus modelitos novos na próxima viagem? </h3>
+	Onde comprar seus modelitos na próxima viagem? </h3>
 	</a>
 
 	</div> </div></div>   </div>  <!-- note: tem que ter 1 a menos que os div abertos -->
