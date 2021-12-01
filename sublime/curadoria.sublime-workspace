@@ -15,7 +15,7 @@
 			"file": "/Users/renata/Documents/curadoriadeviagens.github.io/public_html/index.html",
 			"settings":
 			{
-				"buffer_size": 41995,
+				"buffer_size": 87,
 				"encoding": "UTF-8",
 				"line_ending": "Unix"
 			}
@@ -144,7 +144,7 @@
 	],
 	"find":
 	{
-		"height": 39.0
+		"height": 24.0
 	},
 	"find_in_files":
 	{
@@ -312,15 +312,15 @@
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 41995,
+						"buffer_size": 87,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								0,
-								41995
+								87,
+								87
 							]
 						],
 						"settings":
@@ -330,7 +330,7 @@
 							"translate_tabs_to_spaces": true
 						},
 						"translation.x": 0.0,
-						"translation.y": 534.0,
+						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
 					"stack_index": 0,
